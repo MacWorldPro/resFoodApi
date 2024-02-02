@@ -1,0 +1,62 @@
+[
+    {
+        "foodName":"Gulab Jamun",
+        "price":460,
+        "rating":"4.2",
+        "restaurantName":"Gulab Jal"
+    },
+    {
+        "foodName":"Mysore Masala Dosa",
+        "price":300,
+        "rating":"5.0",
+        "restaurantName":"Southern Foods"
+    },
+    {
+        "foodName":"Momos",
+        "price":40,
+        "rating":"4.3",
+        "restaurantName":"Mexican Masala"
+    },
+    {
+        "foodName":"Pani Poori",
+        "price":30,
+        "rating":"4.8",
+        "restaurantName":"Chat Bhandar"
+    },
+    {
+        "foodName":"Chat Papdi",
+        "price":50,
+        "rating":"4.9",
+        "restaurantName":"Chat Bhandar"
+    },
+    {
+        "foodName":"Dilli Da Pizza",
+        "price":400,
+        "rating":"5.0",
+        "restaurantName":"Dilli Ka Zaika"
+    },
+    {
+        "foodName":"Dilli De Chole",
+        "price":80,
+        "rating":"4.2",
+        "restaurantName":"Dilli Ka Zaika"
+    },
+    {
+        "foodName":"Chat Samosa",
+        "price":30,
+        "rating":"4.8",
+        "restaurantName":"Garam Sharam"
+    },
+    {
+        "foodName":"Chana Zor Garam",
+        "price":250,
+        "rating":"4.5",
+        "restaurantName":"Muth Masala"
+    },
+    {
+        "foodName":"Chai",
+        "price":15,
+        "rating":"5.0",
+        "restaurantName":"Morning Fast"
+    }
+]
