@@ -1,11 +1,12 @@
 
 const mongoose=require('mongoose');
-const url="mongodb://localhost:27017/resapi";
+const env=require('dotenv').config();
+const MONGO_URI=process.env.MONGO_URI;
 const connectDB=async()=>{
   try {
-    const conn=await mongoose.connect(url);
+    const conn=await mongoose.connect(MONGO_URI);
     console.log('connected');
-    console.log(`${conn.connection.host}`)
+    // console.log(`${conn.connection.host}`)
   } catch (e) {
     console.log(e);
   } 

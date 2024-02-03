@@ -3,7 +3,7 @@ const env=require('dotenv').config();
 const connectDB = require("./config/db");
 const foodRoutes=require('./routes/foodRoutes');
 
-const PORT=process.env.PORT||8080;
+const PORT=process.env.PORT;
 
 const app=express();
 connectDB();
